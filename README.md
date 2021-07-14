@@ -22,3 +22,5 @@ BODY:
 }
 
 El mensaje enviado puede ya ser consumido por cualquier consumidor, pudiendo ser el siguiente:
+
+https://github.com/MrGiovanotti/kafka-consumer
